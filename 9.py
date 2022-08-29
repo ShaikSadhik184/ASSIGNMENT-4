@@ -1,0 +1,5 @@
+length=int(input("enter lenghth of a cubiod:"))
+breadth=int(input("enter breadth of a cubiod:"))
+height=int(input("enter height of a cubiod:"))
+volume=(length*breadth*height)
+print("The volume of cubiod is",volume)
